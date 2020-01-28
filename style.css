@@ -11,3 +11,22 @@ h3 {
 h2 {
     color: blueviolet;
 }
+
+/*images and text formatting */
+
+img {
+    float: left
+}
+
+p {
+    clear:both;
+}
+/* nav structure */
+
+
+/* structure and layout */
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
