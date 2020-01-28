@@ -12,6 +12,11 @@ h2 {
     color: blueviolet;
 }
 
+<<<<<<< HEAD
+=======
+/*images and text formatting */
+
+>>>>>>> 59f3a92690cbef1979436772970413dd57d1bcd3
 img {
     float: left
 }
@@ -19,6 +24,7 @@ img {
 p {
     clear:both;
 }
+<<<<<<< HEAD
 
 /* nav structure */
 
@@ -36,12 +42,17 @@ nav li {
 nav {
     clear: both;
 }
+=======
+/* nav structure */
+
+>>>>>>> 59f3a92690cbef1979436772970413dd57d1bcd3
 
 /* structure and layout */
 
 #wrapper {
     width: 960px;
     margin: 0px auto;
+<<<<<<< HEAD
 }
 
 #content-sidebar-wrapper {
@@ -62,4 +73,6 @@ nav {
 
 #footer { 
     clear: both;
+=======
+>>>>>>> 59f3a92690cbef1979436772970413dd57d1bcd3
 }
