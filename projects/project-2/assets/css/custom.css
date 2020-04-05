@@ -1,0 +1,57 @@
+/* custom CSS /* 
+
+/* HOME PAGE MAIN IMAGE */
+
+#home-main-image {
+    background-image: url(../img/image-meemaw-getting-in-car.jpg);
+    background-size: cover;
+}
+
+#home-main-image .cell {
+    min-height: 500px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+h2 {
+    color: #fff;
+    text-align: center;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: uppercase;
+    
+}
+
+#giveride-main-image {
+    background-image: url(../img/make-a-friend.png);
+    background-size: cover;
+}
+
+#giveride-main-image .cell {
+    min-height: 400px;
+}
+
+#get-a-ride-main-image {
+    background-image: url(../img/Get-a-Ride-858x572.jpg);
+    background-size: cover;
+}
+
+#get-a-ride-main-image {
+    min-height: 800px;
+}
+
+footer {
+    background-color: #292929;
+    color: #ffffff;
+}
+
+footer label {
+    color: #ffffff;
+}
+
+#success {
+    text-align: center;
+}
