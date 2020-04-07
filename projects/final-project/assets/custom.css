@@ -1,6 +1,11 @@
 /* Custom CSS for final project site */
 
-/* Add all css here */
+/* Import statements (must stay at top of CSS */ 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+/* 
+Add all css here 
+*/
 
 body {
     background-color: aqua;
